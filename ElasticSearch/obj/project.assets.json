@@ -1,0 +1,289 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6": {
+      "Elasticsearch.Net/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Elasticsearch.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Elasticsearch.Net.dll": {}
+        }
+      },
+      "NEST/6.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Elasticsearch.Net": "[6.2.0, 7.0.0)"
+        },
+        "compile": {
+          "lib/net46/Nest.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Nest.dll": {}
+        }
+      },
+      "EMDBDataEntities/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/EMDBDataEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EMDBDataEntities.dll": {}
+        }
+      },
+      "EMDBNetData/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "dependencies": {
+          "EMDBDataEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EMDBNetData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EMDBNetData.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6/win": {
+      "Elasticsearch.Net/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Elasticsearch.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Elasticsearch.Net.dll": {}
+        }
+      },
+      "NEST/6.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Elasticsearch.Net": "[6.2.0, 7.0.0)"
+        },
+        "compile": {
+          "lib/net46/Nest.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Nest.dll": {}
+        }
+      },
+      "EMDBDataEntities/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/EMDBDataEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EMDBDataEntities.dll": {}
+        }
+      },
+      "EMDBNetData/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "dependencies": {
+          "EMDBDataEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EMDBNetData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EMDBNetData.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6/win-x64": {
+      "Elasticsearch.Net/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Elasticsearch.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Elasticsearch.Net.dll": {}
+        }
+      },
+      "NEST/6.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Elasticsearch.Net": "[6.2.0, 7.0.0)"
+        },
+        "compile": {
+          "lib/net46/Nest.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Nest.dll": {}
+        }
+      },
+      "EMDBDataEntities/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/EMDBDataEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EMDBDataEntities.dll": {}
+        }
+      },
+      "EMDBNetData/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "dependencies": {
+          "EMDBDataEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EMDBNetData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EMDBNetData.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6/win-x86": {
+      "Elasticsearch.Net/6.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Elasticsearch.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Elasticsearch.Net.dll": {}
+        }
+      },
+      "NEST/6.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Elasticsearch.Net": "[6.2.0, 7.0.0)"
+        },
+        "compile": {
+          "lib/net46/Nest.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Nest.dll": {}
+        }
+      },
+      "EMDBDataEntities/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/EMDBDataEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EMDBDataEntities.dll": {}
+        }
+      },
+      "EMDBNetData/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "dependencies": {
+          "EMDBDataEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EMDBNetData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EMDBNetData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elasticsearch.Net/6.2.0": {
+      "sha512": "buRjimBhxYTfcalOHv7soxMVF3iL8+PAxUQndwIybPwCjtX0ErsI0OcnmlghtMcH+dHL59qiUTS3GS/vZQfmEA==",
+      "type": "package",
+      "path": "elasticsearch.net/6.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "elasticsearch.net.6.2.0.nupkg.sha512",
+        "elasticsearch.net.nuspec",
+        "lib/net46/Elasticsearch.Net.dll",
+        "lib/net46/Elasticsearch.Net.xml",
+        "lib/netstandard1.3/Elasticsearch.Net.dll",
+        "lib/netstandard1.3/Elasticsearch.Net.xml"
+      ]
+    },
+    "NEST/6.2.0": {
+      "sha512": "ywP2Pq7xKwxN/BbN4qNfGS9KTz594CXRPDVOPNi7VOXnkL8oPimhWkGJNM+3epgTg0WHAisuOqEqsTz+b/aZzQ==",
+      "type": "package",
+      "path": "nest/6.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net46/Nest.dll",
+        "lib/net46/Nest.xml",
+        "lib/netstandard1.3/Nest.dll",
+        "lib/netstandard1.3/Nest.xml",
+        "nest.6.2.0.nupkg.sha512",
+        "nest.nuspec"
+      ]
+    },
+    "EMDBDataEntities/1.0.0": {
+      "type": "project",
+      "path": "../EMDBDataEntities/EMDBDataEntities.csproj",
+      "msbuildProject": "../EMDBDataEntities/EMDBDataEntities.csproj"
+    },
+    "EMDBNetData/1.0.0": {
+      "type": "project",
+      "path": "../EMDBNetData/EMDBNetData.csproj",
+      "msbuildProject": "../EMDBNetData/EMDBNetData.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6": [
+      "EMDBNetData >= 1.0.0",
+      "NEST >= 6.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pshah6\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\pshah6\\source\\repos\\EDMBRepo\\EMDB.NET\\ElasticSearch\\ElasticSearch.csproj",
+      "projectName": "ElasticSearch",
+      "projectPath": "C:\\Users\\pshah6\\source\\repos\\EDMBRepo\\EMDB.NET\\ElasticSearch\\ElasticSearch.csproj",
+      "packagesPath": "C:\\Users\\pshah6\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pshah6\\source\\repos\\EDMBRepo\\EMDB.NET\\ElasticSearch\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\pshah6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net46"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net46": {
+          "projectReferences": {
+            "C:\\Users\\pshah6\\source\\repos\\EDMBRepo\\EMDB.NET\\EMDBNetData\\EMDBNetData.csproj": {
+              "projectPath": "C:\\Users\\pshah6\\source\\repos\\EDMBRepo\\EMDB.NET\\EMDBNetData\\EMDBNetData.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net46": {
+        "dependencies": {
+          "NEST": {
+            "target": "Package",
+            "version": "[6.2.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

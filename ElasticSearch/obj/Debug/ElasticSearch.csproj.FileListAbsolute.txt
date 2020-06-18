@@ -1,0 +1,17 @@
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\bin\Debug\ElasticSearch.exe.config
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\bin\Debug\ElasticSearch.exe
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\bin\Debug\ElasticSearch.pdb
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\bin\Debug\Elasticsearch.Net.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\bin\Debug\Nest.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\bin\Debug\EMDBNetData.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\bin\Debug\log4net.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\bin\Debug\EncDec.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\bin\Debug\EMDBDataEntities.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\bin\Debug\EMDBNetData.pdb
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\bin\Debug\EMDBDataEntities.pdb
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\obj\Debug\ElasticSearch.csprojAssemblyReference.cache
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\obj\Debug\ElasticSearch.csproj.CoreCompileInputs.cache
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\obj\Debug\ElasticSearch.csproj.CopyComplete
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\obj\Debug\ElasticSearch.exe
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearch\obj\Debug\ElasticSearch.pdb
