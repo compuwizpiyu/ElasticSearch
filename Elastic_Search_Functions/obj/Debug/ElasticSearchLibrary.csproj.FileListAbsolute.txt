@@ -1,0 +1,47 @@
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\bin\Debug\ElasticSearchLibrary.dll
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\bin\Debug\ElasticSearchLibrary.pdb
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\bin\Debug\Elasticsearch.Net.dll
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\bin\Debug\Nest.dll
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.csproj.CoreCompileInputs.cache
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.csproj.CopyComplete
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.dll
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.pdb
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.csprojAssemblyReference.cache
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\bin\Debug\EMDBNetData.dll
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\bin\Debug\EncDec.dll
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\bin\Debug\EMDBNetData.pdb
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\bin\Debug\EncDec.pdb
+C:\Priya_Software\NetWorkspace\EMDB.Net VS2017\EMDB.NET\ElasticSearchLibrary\bin\Debug\EncDec.xml
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\bin\Debug\ElasticSearchLibrary.dll
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\bin\Debug\ElasticSearchLibrary.pdb
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\bin\Debug\Elasticsearch.Net.dll
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\bin\Debug\Nest.dll
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\bin\Debug\EMDBNetData.dll
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\bin\Debug\Oracle.DataAccess.dll
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\bin\Debug\EncDec.dll
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\bin\Debug\EMDBDataEntities.dll
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\bin\Debug\EMDBNetData.pdb
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\bin\Debug\EncDec.xml
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\bin\Debug\EMDBDataEntities.pdb
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.csprojAssemblyReference.cache
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.csproj.CoreCompileInputs.cache
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.csproj.CopyComplete
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.dll
+C:\EMENG2\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.pdb
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\bin\Debug\ElasticSearchLibrary.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\bin\Debug\ElasticSearchLibrary.pdb
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\bin\Debug\Elasticsearch.Net.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\bin\Debug\Nest.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\bin\Debug\EMDBNetData.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\bin\Debug\log4net.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\bin\Debug\EncDec.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\bin\Debug\EMDBDataEntities.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\bin\Debug\EMDBNetData.pdb
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\bin\Debug\EMDBDataEntities.pdb
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.csprojAssemblyReference.cache
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.csproj.CopyComplete
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.dll
+C:\Users\pshah6\source\repos\EDMBRepo\EMDB.NET\ElasticSearchLibrary\obj\Debug\ElasticSearchLibrary.pdb
